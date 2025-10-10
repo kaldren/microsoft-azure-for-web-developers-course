@@ -1,0 +1,64 @@
+Introduction to Microsoft Azure for Web Developers (Everything You Need to Know to Get Started)
+
+The idea of this course is to provide web developers with just enough knowledge about Microsoft Azure to get started with hosting and managing web applications on the platform. 
+The course will cover the most popular Azure services used by web developers, including Azure App Service, Azure Functions, Azure Static Web Apps, Azure Container Apps, Azure SQL Database, and Azure Cosmos Database. 
+The course will also touch on important topics such as security, identity management, and deployment strategies.
+The course will skip over more advanced topics such as networking, virtual machines, and Kubernetes, as these are not typically required for web developers to get started with Azure.
+
+Module 1: Introduction to Cloud Computing
+1. What is cloud computing?
+2. Benefits of cloud computing for web developers
+3. Cloud service models (IaaS, PaaS, SaaS)
+
+Module 2: Overview of Microsoft Azure
+1. Introduction to Microsoft Azure
+2. Azure Regions and Availability Zones
+3. Azure Pricing Models
+4. Setting up an Azure account
+5. Navigating the Azure Portal
+
+Module 3: Azure Resource Management
+1. Subscriptions, Resource Groups, and Resources
+2. Creating and managing resources using the Azure Portal
+3. Introduction to Azure CLI and PowerShell
+4. Overview of IaaC (Infrastructure as Code) with ARM templates, Bicep, and Terraform
+
+Module 4: Hosting Web Applications on Azure (Most Popular Services)
+1. Overview of Azure App Service (PaaS)
+2. Overview of Azure Functions (Serverless Computing)
+3. Overview of Azure Static Web Apps (Static Site Hosting)
+4. Overview of Azure Container Apps (Containerized Applications)
+
+Module 5: Databases and Storage Solutions
+1. Overview of Azure SQL Database (SQL)
+2. Overview of Azure Cosmos Database (NoSQL)
+3. Overview of Azure Storage Accounts (Blob, Table, Queue, File)
+
+Module 6: Security and Identity Management
+1. Overview of why security is important in cloud computing
+2. Introduction to Microsoft Entra ID
+3. Implementing authentication and authorization in web applications
+4. Overview of Azure Key Vault for managing secrets
+5. Best practices for securing web applications on Azure
+
+Module 7: Deploying Web Applications
+1. Deployment options for web applications on Azure
+2. Deploying a web application using Azure App Service (Manual)
+3. Deploying a serverless application using Azure Functions (Manual)
+4. Deploying a static web application using Azure Static Web Apps (Manual)
+5. Deploying containerized applications using Azure Container Apps (Manual)
+6. Implementing CI/CD with GitHub Actions and Azure DevOps
+
+Module 8: Monitoring and Scaling Applications
+1. Introduction to Azure Monitor and Application Insights
+2. Setting up monitoring for web applications
+3. Monitoring application performance and diagnosing issues
+
+Module 9: Cost Management and Optimization
+1. Overview of Azure Cost Management and Billing
+2. Best practices for optimizing costs on Azure
+3. Using Azure Cost Management tools to monitor and control spending
+
+Module 10: Conclusion and Next Steps
+1. Recap of key concepts covered in the course (PDF might be provided)
+2. Encouragement to explore more advanced Azure services and features in the future (networking, virtual machines, Kubernetes, etc.)
