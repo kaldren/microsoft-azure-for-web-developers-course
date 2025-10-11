@@ -10,6 +10,15 @@ Cloud computing is the delivery of all sorts of computing services, like servers
 Instead of having to own and constantly maintain physical servers and expensive data centers, you can rent access to these resources from cloud providers like Microsoft Azure.
 This allows you to scale your resources up or down based on demand, get access to cutting-edge technologies that would be too expensive to implement or maintain on your own, and most importantly, pay only for what you use without having to invest heavily in upfront costs like buying hardware or software licenses.
 
+[The diagram explanation]
+A huge cloud image , inside there are a few rectangles named Compute, Storage, Databases, Applications.
+
+Under Compute we'll give examples, like Virtual Machines, App Services, and Functions.
+Under Storage, we'll name it Storage Accounts and underneath we'll say Queues, Tables, Blobs, Files, and Disks and more.
+Under Databases, we'll Add SQL, PostgreSQL and Cosmos DB.
+Under Applications, we'll add Logic Apps, API Management, and Service Bus, AI Foundry.
+Under Networking, we'll add Azure Front Door, Application Gateway and Virtual Networks.
+
 ** Benefits of Cloud Computing **
 [Script]
 [Benefits icons appear on screen]
