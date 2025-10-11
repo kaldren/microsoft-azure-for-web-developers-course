@@ -1,0 +1,62 @@
+Module 1: Introduction to Cloud Computing
+
+1. What is cloud computing?
+
+** Definition **
+[Script]
+[Cloud computing diagram appears on screen]
+
+Cloud computing is the delivery of all sorts of computing services, like servers, storage, databases, networking, AI, and more, over the Internet ("the cloud").
+Instead of having to own and constantly maintain physical servers and expensive data centers, you can rent access to these resources from cloud providers like Microsoft Azure.
+This allows you to scale your resources up or down based on demand, get access to cutting-edge technologies that would be too expensive to implement or maintain on your own, and most importantly, pay only for what you use without having to invest heavily in upfront costs like buying hardware or software licenses.
+
+** Benefits of Cloud Computing **
+[Script]
+[Benefits icons appear on screen]
+
+The benefits of cloud computing are numerous and that's why it's become so popular in recent years. Here are some of the key advantages:
+
+- Cost Efficiency: You only pay for what you use, which can significantly reduce costs compared to maintaining your own infrastructure.
+  Can you imagine what the alternative would be? Buying a server rack, or a whole data center, and then having to pay people to maintain it, upgrade it, and power it 24/7? Cloud computing eliminates all that hassle. You can start small, maybe with just a few virtual machines, and grow as needed, without investing heavily upfront for any physical infrastructure. You can be sure that you're only paying for the resources you actually use at any given time and not worrying about idle capacity or buying infrastructure that you might not fully utilize.
+
+- Scalability: Easily scale resources up or down based on demand, ensuring optimal performance without over-provisioning.
+  Let's say you're building a web app startup, and you expect your user base to slowly grow over time. With cloud computing, you can start small and scale your resources as your user base expands, without any downtime or disruption.
+
+- Global scale: Deploy applications and services in data centers around the world to reach a global audience with low latency.
+  Microsoft Azure has over 300 data centers in more than 60 regions worldwide, allowing you to deploy your applications closer to your users for better performance and reliability. For example, if you have users in Europe and Asia, you can deploy your application in data centers located in those regions to ensure a better user experience.
+
+- Security: Leading cloud providers invest heavily in security measures to protect your data and applications.
+  Microsoft invests billions of dollars annually in cybersecurity, employing thousands of experts to ensure the safety and integrity of their cloud services. They implement advanced security protocols, regular audits, and compliance certifications to protect your data from threats.
+
+- Performance: Access the latest hardware and technologies without the need for constant upgrades.
+  Cloud providers continuously update their infrastructure with the latest hardware and technologies, ensuring that you always have access to high-performance resources without the need for constant upgrades on your part.
+
+- Reliability: Benefit from high availability and disaster recovery options to ensure your applications are always up and running.
+  Cloud providers like Microsoft Azure offer robust disaster recovery and backup solutions, ensuring that your data is safe and your applications remain available even in the event of hardware failures or other disruptions.
+
+** Cloud Models **
+[Script]
+[Cloud models diagram appears on screen]
+
+There are several cloud deployment models to choose from, each with its own advantages:
+
+- Public Cloud: Services are delivered over the public internet and shared across multiple organizations. Examples include Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).
+- Private Cloud: Services are maintained on a private network, offering greater control and security. This is often used by large enterprises with specific compliance requirements.
+- Hybrid Cloud: A combination of public and private clouds, allowing data and applications to be shared between them. This provides greater flexibility and optimization of existing infrastructure.
+- Multi-Cloud: The use of multiple cloud services from different providers to avoid vendor lock-in and optimize performance.
+
+Of course, the most popular cloud model is the public cloud, and Microsoft Azure is one of the leading providers in this space. That's why this course focuses primarily on Microsoft Azure and its services.
+
+** Cloud Service Models **
+[Script]
+[Cloud service models diagram appears on screen]
+
+When it comes to cloud service models, there are four main types:
+
+- Infrastructure as a Service (IaaS): Provides virtualized computing resources over the internet. Users can rent servers, storage, and networking on a pay-as-you-go basis. Your responsibility is to manage the operating systems, applications, and data. We'll explore Microsoft Azure Virtual Machines as an example, which allows you to create and manage virtual machines in the cloud.
+
+- Platform as a Service (PaaS): Offers hardware and software tools over the internet, typically for application development. Users can focus on building applications without worrying about the underlying infrastructure. One popular example we'll explore is Microsoft Azure App Service, which allows you to quickly build, deploy, and scale web apps and APIs.
+
+- Software as a Service (SaaS): Delivers software applications over the internet on a subscription basis. Users can access applications from any device with an internet connection. Some well-known examples include Microsoft 365 (e.g., Word, Excel, Outlook) and Google Workspace (e.g., Gmail, Google Docs). We'll explore some of Azure's SaaS offerings as well, like Azure DevOps and some of the services for building AI applications.
+
+- Serverless Computing: Allows developers to build and run applications without managing servers. The cloud provider automatically handles the infrastructure, scaling, and maintenance. We'll look at Microsoft Azure Functions as an example, which lets you run small pieces of code in response to events without worrying about the underlying infrastructure.
