@@ -87,12 +87,29 @@ Of course, the most popular choice is the public cloud, and Microsoft Azure is o
 [Script]
 [Cloud service models diagram appears on screen]
 
+We’ve covered deployment models, and now we’ll look at service models.
+These define how much control and responsibility you have over the cloud resources you use.
+It’s an important concept because it directly affects how you design, deploy, and manage your applications in the cloud.
+
 When it comes to cloud service models, there are four main types:
 
-- Infrastructure as a Service (IaaS): Provides virtualized computing resources over the internet. Users can rent servers, storage, and networking on a pay-as-you-go basis. Your responsibility is to manage the operating systems, applications, and data. We'll explore Microsoft Azure Virtual Machines as an example, which allows you to create and manage virtual machines in the cloud.
+- Infrastructure as a Service (IaaS):
+  IaaS provides virtualized computing resources like servers, storage, and networking.
+  You rent what you need on a pay-as-you-go basis — and you’re responsible for managing the OS, applications, and data.
+  In Azure, an example of this is Virtual Machines.
 
-- Platform as a Service (PaaS): Offers hardware and software tools over the internet, typically for application development. Users can focus on building applications without worrying about the underlying infrastructure. One popular example we'll explore is Microsoft Azure App Service, which allows you to quickly build, deploy, and scale web apps and APIs.
+- Platform as a Service (PaaS):
+  PaaS gives you a managed platform for building and deploying applications.
+  The provider handles the infrastructure and runtime — you just focus on your code and data.
+  A great example in Azure is App Service, which lets you build and scale web apps quickly.
 
-- Software as a Service (SaaS): Delivers software applications over the internet on a subscription basis. Users can access applications from any device with an internet connection. Some well-known examples include Microsoft 365 (e.g., Word, Excel, Outlook) and Google Workspace (e.g., Gmail, Google Docs). We'll explore some of Azure's SaaS offerings as well, like Azure DevOps and some of the services for building AI applications.
-
+- Software as a Service (SaaS):
+  SaaS delivers ready-to-use software over the internet.
+  You simply use the application, while the provider manages everything behind the scenes.
+  Examples include Microsoft 365 tools like Outlook and Teams, Google Workspace with Gmail and Docs, and Shopify for e-commerce.
 - Serverless Computing: Allows developers to build and run applications without managing servers. The cloud provider automatically handles the infrastructure, scaling, and maintenance. We'll look at Microsoft Azure Functions as an example, which lets you run small pieces of code in response to events without worrying about the underlying infrastructure.
+
+- Serverless Computing:
+  Serverless lets you run code without managing servers.
+  You’re billed only when your code runs — the provider handles scaling and infrastructure automatically.
+  In Azure, the best example is Azure Functions, which execute small pieces of code in response to events.
