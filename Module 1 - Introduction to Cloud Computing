@@ -63,21 +63,26 @@ The benefits of cloud computing are numerous and that's why it's become so popul
 [End of section]
 
 [Begin next section]
-** Cloud Models **
+** Cloud Deployment Models **
 [Script]
 [Cloud models diagram appears on screen]
 
 [Introduce the diagram]
+What is a cloud deployment model? It's simply how and where your cloud resources are hosted and managed. Different models offer varying levels of control, security, and flexibility.
 
-When it comes to cloud models, there are four main types:
+When it comes to cloud deployment models, there are four main types:
 
 - Public Cloud: Services are delivered over the public internet and shared across multiple organizations. Examples include Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).
 - Private Cloud: Services are maintained on a private network, offering greater control and security. This is often used by large enterprises with specific compliance requirements.
 - Hybrid Cloud: A combination of public and private clouds, allowing data and applications to be shared between them. This provides greater flexibility and optimization of existing infrastructure.
 - Multi-Cloud: The use of multiple cloud services from different providers to avoid vendor lock-in and optimize performance.
 
-Of course, the most popular cloud model is the public cloud, and Microsoft Azure is one of the leading providers in this space. That's why this course focuses primarily on Microsoft Azure and its services.
+Of course, the most popular choice is the public cloud, and Microsoft Azure is one of the leading providers in this space. That's why this course focuses primarily on Microsoft Azure and its services.
 
+[Pause for a moment to let the audience absorb the information]
+[End of section]
+
+[Begin next section]
 ** Cloud Service Models **
 [Script]
 [Cloud service models diagram appears on screen]
