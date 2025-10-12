@@ -72,10 +72,18 @@ What is a cloud deployment model? It's simply how and where your cloud resources
 
 When it comes to cloud deployment models, there are four main types:
 
-- Public Cloud: Services are delivered over the public internet and shared across multiple organizations. Examples include Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).
-- Private Cloud: Services are maintained on a private network, offering greater control and security. This is often used by large enterprises with specific compliance requirements.
-- Hybrid Cloud: A combination of public and private clouds, allowing data and applications to be shared between them. This provides greater flexibility and optimization of existing infrastructure.
-- Multi-Cloud: The use of multiple cloud services from different providers to avoid vendor lock-in and optimize performance.
+- Public Cloud:
+  Services are delivered over the public internet and shared across multiple organizations.
+  Examples of public cloud providers include Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).
+- Private Cloud:
+  Services are maintained on a private network, offering greater control and security. This is often used by large enterprises with specific compliance requirements.
+  Examples include on-premises data centers or private cloud solutions like Azure Stack.
+- Hybrid Cloud:
+  A combination of public and private clouds, allowing data and applications to be shared between them. This provides greater flexibility and optimization of existing infrastructure.
+  For example, you might run sensitive workloads in a private cloud while leveraging the public cloud for less critical applications.
+- Multi-Cloud:
+  The use of multiple cloud services from different providers to avoid vendor lock-in and optimize performance.
+  For instance, a company might use Azure for their excellent AI services while using AWS for their robust storage solutions.
 
 Of course, the most popular choice is the public cloud, and Microsoft Azure is one of the leading providers in this space. That's why this course focuses primarily on Microsoft Azure and its services.
 
